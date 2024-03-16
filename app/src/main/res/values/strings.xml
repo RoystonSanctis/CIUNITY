@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">CIUNITY</string>
+    <string name="asset_statements">
+    [{
+    \"relation\": [\"delegate_permission/common.handle_all_urls\"],
+    \"target\": {
+    \"namespace\": \"web\",
+    \"site\": \https://ciunity.com\"}
+    }],
+
+        [{
+    \"relation\": [\"delegate_permission/common.handle_all_urls\"],
+    \"target\": {
+        \"namespace\": \"web\",
+        \"site\": \"https://www.ciunity.com\"
+    }
+}],
+
+         [{
+    \"relation\": [\"delegate_permission/common.handle_all_urls\"],
+    \"target\": {
+        \"namespace\": \"web\",
+        \"site\": \"https://core.ciunity.com\"
+    }
+}],
+        [{
+    \"relation\": [\"delegate_permission/common.handle_all_urls\"],
+    \"target\": {
+        \"namespace\": \"web\",
+        \"site\": \"https://collegeinnovators.com\"
+    }
+}]
+ </string>
+
+    <string-array name="additional_trusted_origins">
+        <item>https://collegeinnovators.com</item>
+        <item>https://core.ciunity.com</item>
+        <item>https://ciunity.com</item>
+    </string-array>
+
+</resources>
