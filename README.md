@@ -65,11 +65,6 @@ The goal is to **prepare students for real-world careers before they graduate**.
 
 ## 🛠️ Tech Stack
 
-*(Update this section based on your actual stack)*
-
 - Android
-- REST APIs
-- Firebase / Backend Services
-- Cloud Storage
 
 ---
